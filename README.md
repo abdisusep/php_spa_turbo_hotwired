@@ -1,0 +1,1 @@
+# php_spa_turbo_hotwired
